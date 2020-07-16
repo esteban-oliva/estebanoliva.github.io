@@ -3,14 +3,17 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Work Experience
+  url: /Work Experience/
 
-- title: Blog
-  url: /blog/
+- title: Education
+  url: /Education/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Certifications
+  url: /Certifications/
 
-- title: Search
-  url: /search/
+- title: Skills
+  url: /Skills/
+
+- title: Contact info
+  url: /Contact/
